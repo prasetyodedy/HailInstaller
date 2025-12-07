@@ -1,7 +1,7 @@
 ##########################################################################################
 #
-# NovaInstaller
-# by Minionguyjpro
+# HailInstaller
+# by ded
 #
 ##########################################################################################
 # Configs
@@ -27,13 +27,13 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "======================================================"
-  ui_print "        Nova Launcher (Custom Home/Start Menu)        "
+  ui_print "                    Hail Installer                    "
   ui_print "                                                      "
   ui_print "                    Easy Installer                    "
   ui_print "========================MODVER========================"
   ui_print " "
   ui_print " "
-  ui_print "-------------Installing Nova Launcher....-------------"
+  ui_print "-----------------Installing Hail.........-------------"
   ui_print "--------------Setting Up Permissions....--------------"
 }
 
