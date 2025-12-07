@@ -1,6 +1,6 @@
 {
-    "version": "v1.1.3",
-    "versionCode": 113,
-    "zipUrl": "https://github.com/Minionguyjpro/NovaInstaller/releases/latest/download/NovaInstaller.zip",
-    "changelog": "https://raw.githubusercontent.com/Minionguyjpro/NovaInstaller/main/changelog.md"
+    "version": "v1",
+    "versionCode": 1,
+    "zipUrl": "https://github.com/prasetyodedy/HailInstaller/releases/latest/download/HailInstaller.zip",
+    "changelog": "https://raw.githubusercontent.com/prasetyodedy/HailInstaller/main/changelog.md"
 }
