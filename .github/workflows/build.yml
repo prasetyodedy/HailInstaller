@@ -43,14 +43,14 @@ jobs:
           github.event_name == 'pull_request'
         
       - name: Upload stable ZIP as an artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: HailInstaller
           path: ./HailInstaller.zip
         if: github.ref_name == 'main'
         
       - name: Upload nightly ZIP as an artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: HailInstaller-nightly
           path: ./HailInstaller-nightly.zip
