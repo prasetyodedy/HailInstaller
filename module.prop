@@ -1,7 +1,7 @@
-id=NovaInstaller
-name=NovaInstaller
+id=HailInstaller
+name=HailInstaller
 version=VER
 versionCode=VERCODE
-author=Minionguyjpro
-description=Installs the Nova Launcher to '/system/app/' on Android.
-updateJson=https://raw.githubusercontent.com/Minionguyjpro/NovaInstaller/main/module.json
+author=prasetyodedy
+description=Installs the Hail to '/system/product/priv-app/' on Android.
+updateJson=https://raw.githubusercontent.com/prasetyodedy/HailInstaller/main/module.json
