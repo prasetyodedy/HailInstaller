@@ -1,6 +1,6 @@
 {
     "version": "v1.0.0",
-    "versionCode": 1.0.0,
+    "versionCode": 100,
     "zipUrl": "https://github.com/prasetyodedy/HailInstaller/releases/latest/download/HailInstaller.zip",
     "changelog": "https://raw.githubusercontent.com/prasetyodedy/HailInstaller/main/changelog.md"
 }
