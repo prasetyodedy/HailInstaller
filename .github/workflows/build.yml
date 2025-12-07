@@ -31,12 +31,12 @@ jobs:
           sed -i -e "s/\bVERCODE\b/$VERCODE/g" $GITHUB_WORKSPACE/module.prop
       
       - name: Create stable ZIP archive
-        run: zip -r "$GITHUB_WORKSPACE/NovaInstaller.zip" ./* -x module.json
+        run: zip -r "$GITHUB_WORKSPACE/HailInstaller.zip" ./* -x module.json
         shell: bash
         if: github.ref_name == 'main'
         
       - name: Create nightly ZIP archive
-        run: zip -r "$GITHUB_WORKSPACE/NovaInstaller-nightly.zip" ./* -x module.json
+        run: zip -r "$GITHUB_WORKSPACE/HailInstaller-nightly.zip" ./* -x module.json
         shell: bash
         if: |
           github.ref_name == 'dev' ||
@@ -45,15 +45,15 @@ jobs:
       - name: Upload stable ZIP as an artifact
         uses: actions/upload-artifact@v3
         with:
-          name: NovaInstaller
-          path: ./NovaInstaller.zip
+          name: HailInstaller
+          path: ./HailInstaller.zip
         if: github.ref_name == 'main'
         
       - name: Upload nightly ZIP as an artifact
         uses: actions/upload-artifact@v3
         with:
-          name: NovaInstaller-nightly
-          path: ./NovaInstaller-nightly.zip
+          name: HailInstaller-nightly
+          path: ./HailInstaller-nightly.zip
         if: |
           github.ref_name == 'dev' ||
           github.event_name == 'pull_request'
