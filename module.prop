@@ -3,5 +3,5 @@ name=HailInstaller
 version=VER
 versionCode=VERCODE
 author=prasetyodedy
-description=Installs the Hail to '/system/product/priv-app/' on Android.
+description=Install Hail to '/system/product/priv-app/' on Android.
 updateJson=https://raw.githubusercontent.com/prasetyodedy/HailInstaller/main/module.json
