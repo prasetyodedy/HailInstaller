@@ -1,7 +1,7 @@
 # HailInstaller
 Magisk Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android. Requires Magisk v20.4 or higher.
 ## Why release Magisk Module?
-this Magisk Module for make Hail run as Privileged System App, and installed as System App.
+this Magisk Module for make <a href="https://github.com/aistra0528/Hail/">Hail</a> run as Privileged System App, and installed as System App.
 
 this Module is simple way to istall in ``/system/product/priv-app`` or for beginners who don't know how install or running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App.
 
