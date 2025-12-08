@@ -1,9 +1,10 @@
 # HailInstaller
-Magisk Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android. Requires Magisk v20.4 or higher.
-## Why release Magisk Module?
-this Magisk Module for make <a href="https://github.com/aistra0528/Hail/">Hail</a> run as Privileged System App, and installed as System App.
+Magisk/KSU-Next Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android.
 
-this Module is simple way to istall in ``/system/product/priv-app`` or for beginners who don't know how install or running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App.
+## Why release Magisk Module?
+this Magisk/KSU-Next Module for make <a href="https://github.com/aistra0528/Hail/">Hail</a> run as Privileged System App, and installed as System App.
+
+this Module is simple way to install in ``/system/product/priv-app`` or for beginners who don't know how install or running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App.
 
 and this Modul just temporary solution because the goal is make flashable .zip for install to system persistently and seamless OTA Update using custom recovery or adb sideload (but still struggle find source for build flashable .zip)
 
