@@ -1,8 +1,8 @@
 # HailInstaller
-Magisk/KSU-Next Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android.
+Magisk / KSU-Next Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android.
 
-## Why release Magisk Module?
-this Magisk/KSU-Next Module for make <a href="https://github.com/aistra0528/Hail/">Hail</a> run as Privileged System App, and installed as System App.
+## Why release Module?
+this Magisk / KSU-Next Module for make <a href="https://github.com/aistra0528/Hail/">Hail</a> run as Privileged System App, and installed as System App.
 
 this Module is simple way to install in ``/system/product/priv-app`` or for beginners who don't know how install or running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App.
 
