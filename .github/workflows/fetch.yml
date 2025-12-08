@@ -1,9 +1,7 @@
 name: Fetch .apk
 on:
   workflow_dispatch:
-  workflow_call:
-  schedule:
-    - cron: "0 */5 * * *"
+  
 jobs:
   fetch:
     runs-on: ubuntu-latest
