@@ -4,6 +4,8 @@ Magisk / KSU-Next Module for install <a href="https://github.com/aistra0528/Hail
 ## Why release Module?
 this Magisk / KSU-Next Module for make <a href="https://github.com/aistra0528/Hail/">Hail</a> run as Privileged System App, and installed as System App.
 
+running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App is more less RAM usage, less process, less problem, and reliable every time, run more seamlessly because no third party/other app needed for grant permission. just set work mode "system app - disable" in hail setting.
+
 this Module is simple way to install in ``/system/product/priv-app`` or for beginners who don't know how install or running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App.
 
 and this Modul just temporary solution because the goal is make flashable .zip for install to system persistently and seamless OTA Update using custom recovery or adb sideload (but still struggle find source for build flashable .zip)
