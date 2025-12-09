@@ -2,13 +2,11 @@
 Magisk / KSU-Next Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android.
 
 ## Why release Module?
-this Magisk / KSU-Next Module for make <a href="https://github.com/aistra0528/Hail/">Hail</a> run as Privileged System App, and installed as System App.
+this Magisk / KSU-Next module makes Hail run as a Privileged System App, this module is simple and easy way to install Hail as a System App or for beginners who don't know how to install or run Hail as a System App.
 
-running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App is more less RAM usage, less process, less problem, and reliable every time, run more seamlessly because no third party/other app needed for grant permission. just set work mode "system app - disable" in hail setting.
+running Hail as a System App is less RAM usage, fewer process, less problem and reliable every time, run seamless because no third party/other app are needed to grant permission. just set work mode "system app - disable" in Hail settings.
 
-this Module is simple way to install in ``/system/product/priv-app`` or for beginners who don't know how install or running <a href="https://github.com/aistra0528/Hail/">Hail</a> as System App.
-
-and this Modul just temporary solution because the goal is make flashable .zip for install to system persistently and seamless OTA Update using custom recovery or adb sideload (but still struggle find source for build flashable .zip)
+and this module is a temporary solution because the goal is to create flashable .zip file to install on system persistently and seamlessly with OTA Update. and .zip files can be flashed using a custom recovery or adb sideload (However, I'm still struggling find a source for building a flashable .zip file)
 
 ## Credit
 - <a href="https://github.com/aistra0528/Hail/">Hail</a> by <a href="https://github.com/aistra0528/">aistra0528</a> for Hail App (Disable / Hide / Suspend / Uninstall Android apps)
