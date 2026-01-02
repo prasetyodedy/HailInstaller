@@ -1,8 +1,8 @@
 # HailInstaller
-Magisk / KSU-Next Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android.
+Magisk Module for install <a href="https://github.com/aistra0528/Hail/">Hail</a> to ``/system/product/priv-app/`` or ``/product/priv-app/`` on Android.
 
 ## Why release Module?
-this Magisk / KSU-Next module makes Hail run as a Privileged System App, this module is simple and easy way to install Hail as a System App or for beginners who don't know how to install or run Hail as a System App.
+this Magisk module makes Hail run as a Privileged System App, this module is simple and easy way to install Hail as a System App or for beginners who don't know how to install or run Hail as a System App.
 
 running Hail as a System App is less RAM usage, fewer process, less problem and reliable every time, run seamless because no third party/other app are needed to grant permission. just set work mode "system app - disable" in Hail settings.
 
