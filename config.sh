@@ -27,14 +27,12 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "======================================================"
-  ui_print "                    Hail Installer                    "
-  ui_print "                                                      "
-  ui_print "                    Easy Installer                    "
-  ui_print "========================MODVER========================"
+  ui_print "                Hail Module Installer                 "
+  ui_print "======================================================"
   ui_print " "
   ui_print " "
-  ui_print "-----------------Installing Hail.........-------------"
-  ui_print "--------------Setting Up Permissions....--------------"
+  ui_print "-----------------Installing Hail----------------------"
+  ui_print "--------------Setting Up Permissions------------------"
 }
 
 ##########################################################################################
